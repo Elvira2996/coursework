@@ -45,7 +45,6 @@ textarea {
 	border: none;
 	outline: none;
 	display: block;
-	width: 100%;
 	font-family: inherit;
 	font-size: inherit;
 	font-weight: inherit;
@@ -101,16 +100,15 @@ section {
 	margin: 0 auto;
 }
 
-.dib {
-	display: inline-block;
-}
+
 
 
 .btn {
 	background-color: #FFFFFF;
 	border: 1px solid #000000;
+	padding: 10px 10px;
 	text-align: center;
-	width: 100%;
+	display: block;
 	text-decoration: none;
 	border-radius: 48px;
 	font-weight: 400;
@@ -126,3 +124,38 @@ section {
 	flex-wrap: wrap;
 	justify-content: space-between;
 }
+.header{
+	border-bottom: 1px solid #AAAAAA;
+	height: 78px;
+	
+}
+
+.container{
+	width: 1290px;
+	margin: 0 auto;
+	
+}
+.nav_wrapp {
+	display: flex;
+	align-items: center;
+	padding: 22px 120px;
+}
+	
+.menu li{
+	font-size: 16px;
+	margin-left: 30px;
+}
+button.btn{
+	display: flex;
+	align-items: center;
+	padding: 16px 33px;
+	margin-left: 40px;
+	
+}
+.nav_block{
+	display: flex;align-items: center;
+}
+
+
+
+
