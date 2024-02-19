@@ -130,8 +130,10 @@ section {
 .container{
 	width: 1290px;
 	margin: 0 auto;
+
 	
 }
+
 .nav_wrapp {
 	display: flex;
 	align-items: center;
