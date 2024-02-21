@@ -94,7 +94,7 @@ section {
 	padding: 100px 0;
 }
 
-.sec_tit {
+.sec_titl {
 	font-family: "Nunito", sans-serif;
 	font-size: 36px;
 	font-weight: 400;
@@ -159,6 +159,9 @@ button.btn {
 }
 .money{
 	max-width: 480px;
+}
+.money_wrapp{
+	align-items: center;
 }
 
 .money_left{
