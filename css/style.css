@@ -90,9 +90,7 @@ body {
 	display: none;
 }
 
-section {
-	padding: 100px 0;
-}
+
 
 .sec_titl {
 	font-family: "Nunito", sans-serif;
@@ -165,11 +163,11 @@ button.btn {
 }
 
 .money_left{
-	padding: 200px 125px;
+	padding: 85px 125px;
 }
 
 p.money_txt{
-	margin-left:8px;
+	width: 250px;
 	font-size: 16px;
 }
 .money_title{
@@ -191,4 +189,25 @@ padding-bottom: 21px;
 }
 .money_right{
 	max-width: 585px;
+}
+.money_img{
+	margin-right: 121px;
+}
+.boost_img{
+	padding: 104px 120px;
+}
+.sec_titl{
+	margin-bottom: 35px;
+}
+.boost{
+	display: flex;
+	align-items: center;
+}
+.boost_txt{
+	width: 480px;
+	margin-bottom: 25px;
+}
+.boost_right{
+	margin-top: 340px;
+	
 }
