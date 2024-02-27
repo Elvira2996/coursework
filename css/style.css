@@ -211,3 +211,19 @@ padding-bottom: 21px;
 	margin-top: 340px;
 	
 }
+.care_wrapp{
+	align-items: flex-end;
+}
+.care_left{
+	width: 480px;
+	margin-left: 114px;
+}
+.sec_titl{
+	margin-bottom: 34px;
+}
+.care_txt{
+	margin-bottom: 20px;
+}
+.care_img{
+	margin-right: 122px;
+}
