@@ -285,6 +285,9 @@ padding-bottom: 21px;
 	margin-top: 115px;
 	margin-left: 116px;
 }
+.mastercard_wrapp{
+	align-items: center;
+}
 .master_txt{
 	width: 480px;
 	margin-bottom: 30px;
@@ -304,4 +307,5 @@ padding-bottom: 21px;
 }
 .mastercard_right{
 	width: 585px;
+	margin-right: 120px;
 }
