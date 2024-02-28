@@ -227,3 +227,57 @@ padding-bottom: 21px;
 .care_img{
 	margin-right: 122px;
 }
+.partners{
+	padding-top: 110px;
+}
+.content{
+	text-align: center;
+}
+.content_txt{
+	width: 584px;
+	margin: 0 auto;
+	margin-bottom: 50px;
+}
+.btn_app{
+	background-color: #FFFFFF;
+	border: 1px solid #000000;
+	padding: 10px 10px;
+	text-align: center;
+	display: block;
+	text-decoration: none;
+	border-radius: 48px;
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 24.55px;
+	height: 25px;
+	transition: 0.3s;
+	text-align: center;
+}
+
+	
+.more_apps{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	
+}
+.partn_app{
+	width: 25%;
+		
+	
+}
+.partn_app img{
+	display: block;
+	width: 100%;
+	height: auto;
+}
+.btn_app{
+	font-size: 18px;
+	text-align: center;
+	padding: 15px 30px;
+	font-size: 18px;
+	border-radius: 30px;
+	margin: 0 auto;
+	margin-bottom: 30px;
+	
+}
