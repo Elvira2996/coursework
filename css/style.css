@@ -334,3 +334,20 @@ padding-bottom: 21px;
 .account_txt{
 	margin-bottom: 22px;
 }
+.quick{
+	padding-top: 60px;
+}
+.quick_wrapp{
+	align-items: flex-end;
+}
+.quick_txt{
+	width: 480px;
+	margin-bottom: 20px;
+}
+.quick_btn{
+	margin-top: 35px;
+	
+}
+.money_app-quick{
+margin-right: 22px;
+}
