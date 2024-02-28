@@ -281,3 +281,27 @@ padding-bottom: 21px;
 	margin-bottom: 30px;
 	
 }
+.mastercard{
+	margin-top: 115px;
+	margin-left: 116px;
+}
+.master_txt{
+	width: 480px;
+	margin-bottom: 30px;
+}
+.ic_pay{
+	width: 90px;
+	height: 58px;
+	background: url(/img/icons/ic_pay.svg);
+	display: inline-block;
+	margin-right: 20px;
+}
+.ic_pay-g{
+	width: 90px;
+	height: 58px;
+	background: url(/img/icons/ic_pay-g.svg);
+	display: inline-block;	
+}
+.mastercard_right{
+	width: 585px;
+}
