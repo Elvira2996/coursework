@@ -309,3 +309,17 @@ padding-bottom: 21px;
 	width: 585px;
 	margin-right: 120px;
 }
+.fees{
+	padding-top: 50px;
+}
+.fees_wrapp{
+	align-items: flex-end;
+}
+.fees_right{
+	margin-left: 136px;
+}
+.fees_txt{
+	width: 480px;
+	margin-bottom: 20px;
+}
+
