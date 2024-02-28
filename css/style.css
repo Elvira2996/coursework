@@ -322,4 +322,15 @@ padding-bottom: 21px;
 	width: 480px;
 	margin-bottom: 20px;
 }
-
+.account{
+	padding-top: 50px;
+}
+.account_wrapp{
+	align-items: center;
+}
+.account_txt{
+	width: 480px;
+}
+.account_txt{
+	margin-bottom: 22px;
+}
