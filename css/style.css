@@ -351,3 +351,17 @@ padding-bottom: 21px;
 .money_app-quick{
 margin-right: 22px;
 }
+.contacts{
+	padding-top: 50px;
+}
+.contacts_list{
+	font-size: 14px;
+	color: #000000;
+
+}
+.contacts_name{
+	margin-bottom: 40px;
+}
+.contacts_item{
+	margin-bottom: 20px;
+}
