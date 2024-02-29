@@ -97,6 +97,7 @@ body {
 	font-size: 36px;
 	font-weight: 400;
 	margin: 0 auto;
+	line-height: normal;
 }
 
 .btn {
@@ -126,13 +127,14 @@ body {
 	background: #FFFFFF;
 	border-bottom: 1px solid #AAAAAA;
 	height: 78px;
-
+	top: 0;
+	left: 0;
+	right: 0;
 }
 
 .container {
 	width: 1290px;
 	margin: 0 auto;
-
 }
 
 .nav_wrapp {
@@ -158,15 +160,13 @@ button.btn {
 	display: flex;
 	align-items: center;
 }
-.money{
-	max-width: 480px;
-}
 .money_wrapp{
 	align-items: center;
 }
 
 .money_left{
 	padding: 85px 125px;
+	margin-top: 200px;
 }
 
 p.money_txt{
@@ -189,6 +189,9 @@ padding-bottom: 21px;
 }
 .money_ic{
 	margin-bottom: 40px;
+}
+.money_ic-in{
+	width: 290px;
 }
 .money_right{
 	max-width: 585px;
@@ -252,7 +255,6 @@ padding-bottom: 21px;
 	font-weight: 400;
 	font-size: 18px;
 	line-height: 24.55px;
-	height: 25px;
 	transition: 0.3s;
 	text-align: center;
 }
@@ -265,14 +267,14 @@ padding-bottom: 21px;
 	
 }
 .partn_app{
-	width: 25%;
-		
+	width: calc((100% - 150px) / 4);
+	margin-bottom: 20px;
 	
 }
 .partn_app img{
-	display: block;
-	width: 100%;
-	height: auto;
+	max-height: 100%;
+	width: auto;
+	max-width: 100%;
 }
 .btn_app{
 	font-size: 18px;
@@ -339,6 +341,7 @@ padding-bottom: 21px;
 }
 .quick{
 	padding-top: 60px;
+	padding-bottom: 40px;
 }
 .quick_wrapp{
 	align-items: flex-end;
