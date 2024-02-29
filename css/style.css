@@ -121,6 +121,9 @@ body {
 }
 
 .header {
+	position: fixed;
+	z-index: 3;
+	background: #FFFFFF;
 	border-bottom: 1px solid #AAAAAA;
 	height: 78px;
 
